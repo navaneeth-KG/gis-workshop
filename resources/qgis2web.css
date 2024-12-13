@@ -24,9 +24,9 @@ html, body {
 .ol-popup {
     display: none;
     position: absolute;
-    background-color: white;
+    background-color: black;
     padding: 15px;
-	border-radius: 10px;
+    border-radius: 3px;
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
@@ -109,7 +109,7 @@ html, body {
 th, td {
     vertical-align: top;
     text-align: left;
-	color: #333;
+    color: white;
 }
 
 th {
